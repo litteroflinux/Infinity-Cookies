@@ -1,0 +1,11 @@
+{
+ "Name": "Infinity Cookies",
+ "Description": "Put infinite cookies in the game",
+ "Author": "LinuxMystery00",
+ "ID": "id should be short and sweet",
+ "ModVersion": 1,
+ "GameVersion": 2.048,
+ "Date": "5/26/2023",
+ "Dependencies": [],
+ "Disabled": 1
+}
